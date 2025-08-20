@@ -126,10 +126,11 @@
 
    <h2>Fără Alcool</h2>
 <ul>
+  <li><span class="item-name">Ursus Fara Alcool</span><span class="item-size">0.5L</span><span class="item-price">10.00 RON</span></li>
   <li><span class="item-name">Peroni Nastro Azzurro 0.0%</span><span class="item-size">0.33L</span><span class="item-price">12.00 RON</span></li>
-  <li><span class="item-name">Ursus Cooler Grapefruit</span><span class="item-size">0.5L</span><span class="item-price">10.00 RON</span></li>
-  <li><span class="item-name">Ursus Cooler Lemon</span><span class="item-size">0.5L</span><span class="item-price">10.00 RON</span></li>
-  <li><span class="item-name">Ursus Cooler Cherry</span><span class="item-size">0.5L</span><span class="item-price">10.00 RON</span></li>
+  <li><span class="item-name">Ursus Cooler Grapefruit</span><span class="item-size">0.33L</span><span class="item-price">10.00 RON</span></li>
+  <li><span class="item-name">Ursus Cooler Lemon</span><span class="item-size">0.33L</span><span class="item-price">10.00 RON</span></li>
+  <li><span class="item-name">Ursus Cooler Cherry</span><span class="item-size">0.33L</span><span class="item-price">10.00 RON</span></li>
 </ul>
 
   </section>
